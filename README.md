@@ -36,7 +36,7 @@ ref_seq_index_files: index files generated for the readmapper to use, based on t
 trimmed_reads: trimmed fastq files
 trimmed_reads_qc: qc information about the post trimmed fastq files
 
-#Quickstart commands
+# Quickstart commands
 
 ## To view raw read QC info 
 
